@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: burlywood;
+}
+
+.container{
+    display: flexbox;
+    position: relative;
+    margin-left:auto;   
+    margin-right:auto;
+    margin-top:30px;
+    margin-bottom:1px;
+    width: 30em;
+}
+
+.content{
+    width: 20em;
+    margin-left:auto;   
+    margin-right:auto;
+    border-style: solid;
+}
+blockquote {
+    margin-top: 1em;
+    padding: 0.5em 1px;
+  }
+  blockquote cite {
+    font-size: 0.9em;
+    display: block;
+    margin-top: 0.5em;
+  }
+
+.self-picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
